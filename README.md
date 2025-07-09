@@ -13,4 +13,7 @@ Also, if all weather data is stored in a single table, deleting a record for one
  
 
 
+## Technology Used
+- Sequel Ace
+
 
